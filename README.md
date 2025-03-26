@@ -1,13 +1,5 @@
 # System-Design-Notes
 System Design Notes for MAANG Interview
-
-## Basic System Design Reference 
-| Name | Link |
-|-------|-------|
-| System Design Primer | https://github.com/mdfraz13/system-design-primer |
-| System Design Interview | https://github.com/mdfraz13/system-design-interview |
-
-
 ## System Design Problems 
 | Problem | Asked in|
 |--| --------|
